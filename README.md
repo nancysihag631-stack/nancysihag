@@ -72,11 +72,11 @@ Cloud:
 ---
 
 ##**Certifications**
--Microsoft certificate
--Deloitte cyber job simulation
--TATA CyberSecurity analyst job simulation
--CommanWealth Bank Software Engineering job simulation
--JPMorgan Chase&Co Software Engineering job simulation
+- Microsoft certificate
+- Deloitte cyber job simulation
+- TATA CyberSecurity analyst job simulation
+- CommanWealth Bank Software Engineering job simulation
+- JPMorgan Chase&Co Software Engineering job simulation
 ## 📫 Connect with Me
 
 - GitHub: https://github.com/nancysihag631-stack
