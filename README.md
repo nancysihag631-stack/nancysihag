@@ -1,50 +1,21 @@
-# nancysihag
-# Hi 👋, I'm Nancy Sihag
+# Hi 👋 I'm Nancy Sihag
 
-🎓 BCA Student from India
+💻 BCA Student
 
-💻 Python Developer
+🐍 Python Developer
 
 🤖 Learning AI & Software Engineering
 
-🚀 Building real-world AI projects
-
----
-
-## 🛠️ Tech Stack
-
-- Python
-- HTML
-- CSS
-- Git & GitHub
-- Flask (Learning)
-- SQL (Learning)
-- AI APIs (Learning)
-
----
-
-## 📌 Featured Projects
-
-- AI Resume Analyzer
-- AI Sales Automation Platform
-- Expense Tracker
-- Flask Authentication App
-
----
-
-## 🌱 Currently Learning
-
+🌱 Currently learning
 - Python
 - Flask
-- REST APIs
+- SQL
 - Docker
-- AI Development
 
----
+🚀 Projects
+- AI Resume Analyzer
+- AI Sales Automation Platform
 
-## 📫 Connect with Me
-
-- GitHub: https://github.com/nancysihag631-stack
-- LinkedIn: (Add your LinkedIn profile later)
-
-⭐ Thanks for visiting my profile!
+📫 Reach me
+- LinkedIn
+- Email
