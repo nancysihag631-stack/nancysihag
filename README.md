@@ -16,9 +16,9 @@
 - HTML
 - CSS
 - Git & GitHub
-- Flask (Learning)
-- SQL (Learning)
-- AI APIs (Learning)
+- Flask (Backend Framework)
+- SQL (Database Management)
+- AI APIs & Automation Integrations
 
 ---
 
@@ -77,8 +77,9 @@ Cloud:
 - TATA CyberSecurity analyst job simulation
 - CommanWealth Bank Software Engineering job simulation
 - JPMorgan Chase&Co Software Engineering job simulation
-## 📫 Connect with Me
 
-- GitHub: https://github.com/nancysihag631-stack
+
+## 📫 Connect with Me
+- GitHub: https://github.com/NancySihag
 
 ⭐ Thanks for visiting my profile!
